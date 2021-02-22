@@ -1,5 +1,5 @@
 package com.tesfai.stack.linkedlist;
-
+/* Linkedlist */
 public class Main{
     public static void main(String[] args){
     	StackLinkedList<String> stack = new StackLinkedList<>();
